@@ -2,7 +2,7 @@
 import React ,{useState}from "react";
 import "./App.css";
 import Home from "./components/Home.jsx";
-import AllRecepies from "./components/AllRecipies.jsx"
+import AllRecepies from "./components/AllRecepies.jsx"
 function App() {
 const [view,setView]=useState('Home')
   let changeView = (view) => {

@@ -75,7 +75,6 @@ By design, this assessment contains more work than you will be able to complete 
  - [ ] In the Express server server/index.js, complete the request handler that will respond to GET requests to /api/menuItems with JSON of the menu items stored in the database.
  - [ ] In the client-side code, add an AJAX / Or axios request to fetch the menu items from the server when the App (or Home) component gets loaded.
  - [ ]Replace the sample data in your client with data obtained from your server.
-
     **WHEN THIS STEP IS COMPLETE:** please make a commit with the message "complete step two"
 
 Note: You can replace menuItems with the name of your own menu items data.
